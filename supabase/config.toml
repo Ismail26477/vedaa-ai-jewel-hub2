@@ -1,0 +1,7 @@
+project_id = "garzrldbuvegbfqmeejp"
+
+[functions.mongodb-jewelry]
+verify_jwt = false
+
+[functions.live-metal-prices]
+verify_jwt = false
